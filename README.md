@@ -28,24 +28,24 @@ To run the analysis, you need to have Python and the following libraries install
 - numpy 
 - seaborn 
 - matplotlib 
-You can install the required libraries using: 
+### You can install the required libraries using: 
 - pip install pandas numpy seaborn matplotlib 
 
-Analysis and Visualization 
+## Analysis and Visualization 
 The analysis includes: 
 - Time series plots to visualize user count trends over time. 
 - Box plots to examine seasonal, monthly, weekday, and holiday trends. 
 - Scatter plots to explore the impact of weather conditions on user counts. 
 - Correlation analysis to identify relationships between different variables. 
  
-Insights 
+## Insights 
 Key insights from the analysis include: 
 - User activity is higher on weekends and holidays. 
 - Favourable weather conditions (clear skies, moderate temperatures) lead to increased bike usage. 
 - Seasonal trends indicate higher usage in certain seasons. 
 
-Contributing 
+## Contributing 
 If you would like to contribute to this project, please fork the repository and submit a pull request with your changes. Ensure your contributions align with the project goals and maintain code quality. 
 
-Acknowledgements 
+## Acknowledgements 
 Special thanks to the data providers and the open-source community for their valuable resources and tools. 
